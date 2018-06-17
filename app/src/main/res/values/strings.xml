@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Music</string>
+    <string name="song_wait_and_bleed">Wait And Bleed</string>
+    <string name="song_ev_sistr">Ev Sistr</string>
+    <string name="song_nannuflay">Nànnuflày</string>
+    <string name="song_syria">Syria</string>
+    <string name="song_chambermaid_swing">Chambermaid Swing</string>
+    <string name="album_load">Load</string>
+    <string name="album_reload">Reload</string>
+    <string name="album_st_anger">St. Anger</string>
+    <string name="album_death_death_magnetic">Death Magnetic</string>
+    <string name="album_hardwired_to_self_destruct">Hardwired to Self-Destruct</string>
+    <string name="albums">Albums</string>
+    <string name="songs">Songs</string>
+    <string name="song_like_move" translatable="false">I like to move it</string>
+</resources>
